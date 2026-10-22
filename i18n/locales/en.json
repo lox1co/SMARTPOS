@@ -1,0 +1,45 @@
+{
+  "app": {
+    "name": "SmartPOS"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "billing": "Billing",
+    "products": "Products",
+    "inventory": "Inventory",
+    "profile": "Profile"
+  },
+  "common": {
+    "actions": {
+      "cancel": "Cancel",
+      "close": "Close",
+      "done": "Done",
+      "save": "Save"
+    },
+    "status": {
+      "loading": "Loading...",
+      "error": "Something went wrong. Please try again."
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "language": {
+      "title": "App language",
+      "select": "Select app language",
+      "english": "English",
+      "spanish": "Spanish"
+    },
+    "printer": {
+      "section": "Hardware & Printing",
+      "setup": "Thermal Printer Setup",
+      "interface": "Connection Interface",
+      "paperSize": "Paper Roll Size",
+      "savePreferences": "Save Preferences"
+    },
+    "backup": {
+      "title": "Backup & Restore",
+      "create": "Create New Backup",
+      "restore": "Restore Data"
+    }
+  }
+}
